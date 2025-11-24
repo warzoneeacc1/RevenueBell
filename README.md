@@ -98,19 +98,7 @@ https://revenuebell.你的用户名.workers.dev
 
 成功配置后，你会收到类似这样的通知：
 
-**生产环境：**
-```
-🎉 iRich 新收入！
-类型：新订阅 (首次)
-产品：com.nextleaplabs.iRich.premium
-```
-
-**沙盒环境（测试）：**
-```
-🧪 [测试] iRich 新收入！
-类型：新订阅 (首次)
-产品：com.nextleaplabs.iRich.premium
-```
+<img src="screenshots/8.png" width="300" alt="通知效果" />
 
 ## 🔍 查看日志
 
